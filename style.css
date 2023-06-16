@@ -81,19 +81,19 @@ body {
 #slider {
     position: absolute;
     cursor: pointer;
-    left: -40px;
+    left: -5%;
     transform: rotate(-90deg);
 }
 
 #scale {
     position: absolute;
     cursor: pointer;
-    bottom: 20px;
+    bottom: 5%;
 }
 
 #margin {
     position: absolute;
     cursor: pointer;
-    right: -40px;
+    right: -5%;
     transform: rotate(-90deg);
 }
